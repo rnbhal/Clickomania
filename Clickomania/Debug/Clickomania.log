@@ -1,0 +1,31 @@
+﻿Build started 28-03-2016 19:16:21.
+     1>Project "C:\Users\rnbhal\Documents\Visual Studio 2013\Projects\Clickomania\Clickomania\Clickomania.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\Clickomania.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Clickomania.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Clickomania.cpp ClickomaniaDoc.cpp ClickomaniaView.cpp Clickomaniaboard.cpp MainFrm.cpp SetBlockCount.cpp
+         SetBlockCount.cpp
+         MainFrm.cpp
+         Clickomaniaboard.cpp
+         ClickomaniaView.cpp
+         ClickomaniaDoc.cpp
+         Clickomania.cpp
+         Generating Code...
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0409" /IDebug\ /nologo /fo"Debug\Clickomania.res" Clickomania.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\rnbhal\Documents\Visual Studio 2013\Projects\Clickomania\Debug\Clickomania.exe" /INCREMENTAL /NOLOGO winmm.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"C:\Users\rnbhal\Documents\Visual Studio 2013\Projects\Clickomania\Debug\Clickomania.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\rnbhal\Documents\Visual Studio 2013\Projects\Clickomania\Debug\Clickomania.lib" /MACHINE:X86 Debug\Clickomania.res
+         Debug\Clickomania.obj
+         Debug\ClickomaniaDoc.obj
+         Debug\ClickomaniaView.obj
+         Debug\Clickomaniaboard.obj
+         Debug\MainFrm.obj
+         Debug\SetBlockCount.obj
+         Debug\stdafx.obj
+     1>LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+         Clickomania.vcxproj -> C:\Users\rnbhal\Documents\Visual Studio 2013\Projects\Clickomania\Debug\Clickomania.exe
+     1>Done Building Project "C:\Users\rnbhal\Documents\Visual Studio 2013\Projects\Clickomania\Clickomania\Clickomania.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.58
