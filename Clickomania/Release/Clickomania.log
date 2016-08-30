@@ -1,17 +1,8 @@
-﻿Build started 28-03-2016 19:17:07.
-     1>Project "C:\Users\rnbhal\Documents\Visual Studio 2013\Projects\Clickomania\Clickomania\Clickomania.vcxproj" on node 2 (Rebuild target(s)).
+﻿Build started 30-08-2016 16:53:23.
+     1>Project "C:\Users\rnbhal\Documents\Visual Studio 2013\Projects\Clickomania\Clickomania\Clickomania.vcxproj" on node 2 (Build target(s)).
      1>ClCompile:
-         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Release\Clickomania.pch" /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
-         stdafx.cpp
-         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Release\Clickomania.pch" /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Clickomania.cpp ClickomaniaDoc.cpp ClickomaniaView.cpp Clickomaniaboard.cpp MainFrm.cpp SetBlockCount.cpp
-         Clickomania.cpp
-         ClickomaniaDoc.cpp
-         ClickomaniaView.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Release\Clickomania.pch" /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Clickomaniaboard.cpp
          Clickomaniaboard.cpp
-         MainFrm.cpp
-         SetBlockCount.cpp
-       ResourceCompile:
-         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D NDEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0409" /IRelease\ /nologo /fo"Release\Clickomania.res" Clickomania.rc 
        Link:
          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\rnbhal\Documents\Visual Studio 2013\Projects\Clickomania\Release\Clickomania.exe" /INCREMENTAL:NO /NOLOGO winmm.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"C:\Users\rnbhal\Documents\Visual Studio 2013\Projects\Clickomania\Release\Clickomania.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\rnbhal\Documents\Visual Studio 2013\Projects\Clickomania\Release\Clickomania.lib" /MACHINE:X86 /SAFESEH Release\Clickomania.res
          Release\Clickomania.obj
@@ -24,8 +15,8 @@
          Generating code
          Finished generating code
          Clickomania.vcxproj -> C:\Users\rnbhal\Documents\Visual Studio 2013\Projects\Clickomania\Release\Clickomania.exe
-     1>Done Building Project "C:\Users\rnbhal\Documents\Visual Studio 2013\Projects\Clickomania\Clickomania\Clickomania.vcxproj" (Rebuild target(s)).
+     1>Done Building Project "C:\Users\rnbhal\Documents\Visual Studio 2013\Projects\Clickomania\Clickomania\Clickomania.vcxproj" (Build target(s)).
 
 Build succeeded.
 
-Time Elapsed 00:00:06.00
+Time Elapsed 00:00:02.03

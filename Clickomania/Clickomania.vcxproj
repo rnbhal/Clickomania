@@ -131,6 +131,10 @@
   <ItemGroup>
     <ResourceCompile Include="Clickomania.rc" />
   </ItemGroup>
+  <ItemGroup>
+    <Media Include="destroy.wav" />
+    <Media Include="wrong_click.wav" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
